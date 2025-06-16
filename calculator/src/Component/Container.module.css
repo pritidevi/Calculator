@@ -1,0 +1,12 @@
+.container{
+    /* border: 1px solid  black; */
+    height: 45%;
+    width: 40%;
+    color: black;
+    margin: 12px;
+    padding: 12px;
+    align-items: center;
+    min-width: 400px;
+  position:fixed;
+  top: 0;
+}
