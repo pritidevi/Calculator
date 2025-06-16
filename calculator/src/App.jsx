@@ -20,9 +20,7 @@ function App() {
         <Button  button={specialchar} />
       </div>
     </Container>
-    {/* <Container>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsa fugit magni in hic, odio modi tempora sequi recusandae cumque asperiores nemo dolores. Mollitia, qui praesentium quibusdam quis quam asperiores.</p>
-    </Container> */}
+   
     </>
   )
 }
